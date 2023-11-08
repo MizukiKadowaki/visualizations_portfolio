@@ -23,6 +23,9 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 #### Part 2
 <iframe width="860" height="645" src="https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>
 
+#### Part 3
+<iframe width="860" height="645" src="https://public.tableau.com/views/IrelandsUniqueDebtRecovery/Sheet13?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>
+
 
 ## Assignment 2
 

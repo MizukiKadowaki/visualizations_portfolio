@@ -21,16 +21,10 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 <iframe src="https://data.oecd.org/chart/7f9k" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7f9k" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
 #### Part 2
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1580496195669');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
 
-<iframe width="100%" height="400" src="[URL_TO_YOUR_TABLEAU_PUBLIC_VISUALIZATION](https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"></iframe>
+
+<iframe width="100%" height="400" src="https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"></iframe>
+
 
 ## Assignment 2
 

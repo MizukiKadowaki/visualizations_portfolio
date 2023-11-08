@@ -21,13 +21,7 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 <iframe src="https://data.oecd.org/chart/7f9k" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7f9k" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
 #### Part 2
-
-
 <iframe width="100%" height="400" src="https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>
-
-
-<iframe width="100%" height="400" src="https://public.tableau.com/views/YourVisualizationName/YourDashboard?:showVizHome=no&:embed=true"></iframe>
-
 
 
 ## Assignment 2

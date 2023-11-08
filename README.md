@@ -30,6 +30,8 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<iframe width="100%" height="400" src="[URL_TO_YOUR_TABLEAU_PUBLIC_VISUALIZATION](https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/GrossDebtoftheGeneralGovernment/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"></iframe>
+
 ## Assignment 2
 
 ## Final Project

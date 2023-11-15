@@ -16,7 +16,7 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 - Combine my technical data background with design to be a more effectively communicate my work
 
 # Projects
-## Assignment 2
+## Assignment: Visualizing government debt using Tableau
 #### Part 1
 <iframe src="https://data.oecd.org/chart/7f9k" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7f9k" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
@@ -28,6 +28,32 @@ I used a line chart in order to visualize changes in debt from each country over
 
 <iframe width="860" height="645" src="https://public.tableau.com/views/IrelandsUniqueDebtRecovery/Sheet13?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>
 
-## Assignment 2
+## Assignment: Critique by reDesign with Tableau
+#### Visualization Choice 
+![image info](./Storytelling_Data/assignment3&4/Assignment3/4 original.png)
+https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet?rq=protein
+
+#### My Critique
+
+Usefulness - 8/10
+This visualization is incredibly useful for those who are health conscious but also price conscious. As this is from a body building blog, the audience of this visualization is for people who want to understand their protein sources and its effectiveness. It is a very casual, approachable visualization which matches the audience and publication method. Because this visualization is published online and made to be viewed by people who live in different cities, the dollar amount will not be the same everywhere. The exact dollar amount is not important, rather the comparison between the different protein sources. This graph could be used to substitute one’s diet for more price conscious or protein rich foods. However, one thing to keep in mind is that while things like chicken and beef may serve as replacements for each other, milk will not be able to replace beef because it is a completely different food group. 
+
+Completeness - 9/10
+The visualization contains all necessary information to understand. It does not provide labels for the specific dollar amount of each protein source and the currency is unclear because there are many types of dollars used around the world. However, I do not think that this is necessary because the visualization does not show specific dollar amounts. 
+
+Perceptibility - 3/10
+The choice of using a bar graph is appropriate for this visualization. However there are illogical comparisons of calorie count within the bars. Intuitively, the values within the bars would be the y-axis cost amount. However, they use calorie amount. It is unclear whether this calorie count is of the amount it takes to get 30g of protein. 
+
+Truthfulness - 2/10
+It is very difficult to gauge the exact pricing of these different foods because prices will vary depending on location, store and even brand. These are all single examples which makes it misleading to title this visualization “How much does 30g of Protein cost?” because it makes it seem as though this visualization provides answers on price rather than which products are generally less expensive than others. It may also be deceptive to compare all of these protein sources because they are not the same. Although it is helpful to have the calorie information included in the visualization, the placement is misleading and there is no indication anywhere else in the visualization that calorie information is important.  
+
+Intuitiveness - 2/10
+This visualization is not intuitive because wording such as “cost effectiveness” makes it seem like cheaper is better. However, by sorting the protein sources in descending order from left to right, our attention is drawn towards the longer, more expensive bars. It is also unintuitive because the bars contain calorie information, and not the specific price, which is what you would expect. Because calorie information is not correlated with price or protein, this makes the bars seem disproportionate even though they are not. 
+
+Aesthetics - 5/10
+The aesthetics are not bad and do not prevent the information from getting across. The small graphic visualizations of each food are not helpful because they are too small to identify and sometimes misleading. For example, when seeing the carton, I automatically assumed that this was milk, when it was a carton of egg whites. Similarly, it is very difficult to differentiate the yogurt and the cottage cheese. There seems to be some redundancy between the title, subtitle, and y axis label that should be eliminated. 
+
+Engagement - 7/10
+The bar graph is an effective visualization for comparing the prices of different types of protein. The information portrayed is very interesting and can be useful for anyone trying to find ways to have a healthier diet. However, it is slightly distracting and difficult to read. 
 
 ## Final Project

@@ -90,12 +90,9 @@ Student, 20s
 
 What I learned:
 - There are different perspectives on what foods fit into which food categories. I originally included Eggs in the same category as Dairy. I found that health conscious people who are very aware of protein intake and protein type categorize eggs with meat and fish. From a cooking perspective, eggs are grouped more closely with dairy. 
-
 - With the nature of bar graphs, it is always the assumption that the longer bars are “better” even if they are ordered in ascending order. I am not sure how to change that bias. 
-
 - Price values down to the cent are not important in this case. They just add clutter. Numbers should be adjusted to represent 30g. 
-
-= Title is very important and needs to be well thought out.. 
+- Title is very important and needs to be well thought out.. 
 
 
 #### 5. Final Solution

@@ -71,6 +71,33 @@ The bar graph is an effective visualization for comparing the prices of differen
 
 #### 4. Usability Testing
 
+Grad Student, 20s 
+- Title is misleading because the types 
+- The categories are good. 
+
+Student, 20s
+- It makes sense. 
+- Title takes a bit to understand because when I think protein then I think how much? 
+- I don’t care about differences in a few cents. 
+- I don’t like reading numbers. It looks cluttered.
+- It makes me question whether these numbers are accurate because prices vary. 
+
+Student, 20s
+- “your protein” part of the title is misleading because there are different types of protein. 
+- Eggs should be in the meat category because it is a different type of protein than dairy. 
+- 30g would be a better measure than 20g because that is what most people in fitness aim for. 
+
+
+What I learned:
+- There are different perspectives on what foods fit into which food categories. I originally included Eggs in the same category as Dairy. I found that health conscious people who are very aware of protein intake and protein type categorize eggs with meat and fish. From a cooking perspective, eggs are grouped more closely with dairy. 
+
+- With the nature of bar graphs, it is always the assumption that the longer bars are “better” even if they are ordered in ascending order. I am not sure how to change that bias. 
+
+- Price values down to the cent are not important in this case. They just add clutter. Numbers should be adjusted to represent 30g. 
+
+= Title is very important and needs to be well thought out.. 
+
+
 #### 5. Final Solution
 
 <iframe width="860" height="645" src="https://public.tableau.com/views/assignment34_17000911303500/Sheet1?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>

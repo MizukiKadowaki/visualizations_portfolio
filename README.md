@@ -31,7 +31,7 @@ I used a line chart in order to visualize changes in debt from each country over
 ## Assignment: Critique by reDesign with Tableau
 #### 1. Visualization Choice 
 ![Assignment3:4 original](https://github.com/MizukiKadowaki/visualizations_portfolio/assets/29721038/235025a1-1fc1-4bc6-bfd7-8a15e9ad9884)
-![link]https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet?rq=protein
+[Article]: https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet?rq=protein
 
 #### 2. My Critique
 
@@ -74,7 +74,6 @@ The bar graph is an effective visualization for comparing the prices of differen
 
 <iframe width="860" height="645" src="https://public.tableau.com/views/assignment34_17000911303500/Sheet1?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>
 
-Original Visualization: https://data.world/makeovermonday/2023w8
-
+[Original Visualization]: https://data.world/makeovermonday/2023w8
 
 ## Final Project

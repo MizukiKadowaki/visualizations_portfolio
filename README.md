@@ -31,7 +31,7 @@ I used a line chart in order to visualize changes in debt from each country over
 ## Assignment: Critique by reDesign with Tableau
 #### 1. Visualization Choice 
 ![Assignment3:4 original](https://github.com/MizukiKadowaki/visualizations_portfolio/assets/29721038/235025a1-1fc1-4bc6-bfd7-8a15e9ad9884)
-https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet?rq=protein
+![link]https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet?rq=protein
 
 #### 2. My Critique
 
@@ -64,6 +64,9 @@ Engagement - 7/10
 The bar graph is an effective visualization for comparing the prices of different types of protein. The information portrayed is very interesting and can be useful for anyone trying to find ways to have a healthier diet. However, it is slightly distracting and difficult to read. 
 
 #### 3. Sketches 
+![sketch1](https://github.com/MizukiKadowaki/visualizations_portfolio/assets/29721038/d6147c5f-834c-400e-85d2-59afb07a95cc)
+
+![sketch2](https://github.com/MizukiKadowaki/visualizations_portfolio/assets/29721038/1f286900-79dd-4135-8174-299162e48fa9)
 
 #### 4. Usability Testing
 

@@ -75,6 +75,6 @@ The bar graph is an effective visualization for comparing the prices of differen
 
 <iframe width="860" height="645" src="https://public.tableau.com/views/assignment34_17000911303500/Sheet1?:language=en-US&publish=yes&:display_count=n&:showVizHome=no&:embed=true"></iframe>
 
-[Original Visualization]: https://data.world/makeovermonday/2023w8
+[Original Visualization](https://data.world/makeovermonday/2023w8)
 
 ## Final Project

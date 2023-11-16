@@ -30,8 +30,7 @@ I used a line chart in order to visualize changes in debt from each country over
 
 ## Assignment: Critique by reDesign with Tableau
 #### 1. Visualization Choice 
-![alt text](https://github.com/MizukiKadowaki/visualizations_portfolio/blob/main/Assignment3:4%20original.png)
-
+![Screenshot](Assignment3:4 original.png)
 https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet?rq=protein
 
 #### 2. My Critique

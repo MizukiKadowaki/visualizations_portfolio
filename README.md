@@ -18,7 +18,7 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 - Combine my technical data background with design to be a more effectively communicate my work
 
 # Projects
-## Assignment: Visualizing government debt using Tableau
+## Assignment: [Visualizing government debt using Tableau](visualizing-government-debt)
 #### Part 1
 <iframe src="https://data.oecd.org/chart/7f9k" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7f9k" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 

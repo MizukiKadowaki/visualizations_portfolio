@@ -20,6 +20,6 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 # Projects
 ## Assignment: [Visualizing government debt using Tableau](visualizing-government-debt.md)
 
-## Assignment: [Assignment: Critique by reDesign with Tableau][critique-by-design.md]
+## Assignment: [Critique by reDesign with Tableau](critique-by-design.md)
 
 ## Final Project

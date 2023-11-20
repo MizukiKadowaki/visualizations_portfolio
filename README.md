@@ -22,4 +22,4 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 
 ## Assignment: [Critique by reDesign with Tableau](critique-by-design.md)
 
-## Final Project
+## Final Project: [Part 1](final-project-part-one.md)

@@ -23,6 +23,9 @@ My current shortframe storyboard is [here](https://preview.shorthand.com/f1JsROP
 
 # User research 
 
+## Target Audience
+My target audience is Americans who drive passively. These are people who see driving as a necessity but do not enjoy it as a hobby. 
+
 ## Interview script
 
 | Goal | Questions to Ask |

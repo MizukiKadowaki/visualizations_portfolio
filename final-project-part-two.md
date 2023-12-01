@@ -23,11 +23,6 @@ My current shortframe storyboard is [here](https://preview.shorthand.com/f1JsROP
 
 # User research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
-
 ## Interview script
 
 | Goal | Questions to Ask |

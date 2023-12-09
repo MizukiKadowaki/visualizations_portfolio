@@ -32,6 +32,6 @@ This dataset is from the U.S. Environmental Protection Agency that scores cities
 The dataset, sourced from the US Bureau of Economic Analysis, encompasses information on all passenger cars acquired between November 12, 2020, and January 24, 2023 (2023, data.org). My intention is to leverage this dataset to identify regions where practical car usage is currently at a minimum. It's important to note that the findings may diverge from assessments in two preceding datasets, as those datasets amalgamate various factors to derive metrics, introducing potential disparities in the evaluation of these locations.
 
 
-# Method and medium
+## Method and medium
 I plan to use Shorthand to complete my final project. I will be using a few stand out statistics and data visualizations in order to map out my story. 
 

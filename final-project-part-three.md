@@ -1,9 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-Driving Change: Gen Z is Steering Away from American Car Reliance [Full Story](https://carnegiemellon.shorthandstories.com/changing_car_dependency/index.html) [In-class Showcase Version]([https://preview.shorthand.com/f1JsROPJZygw70wd](https://carnegiemellon.shorthandstories.com/changing_car_dependency/gen-z-is-steering-away-from-car-reliance/index.html)) 
+# Final Project - Part 3
+Driving Change: Gen Z is Steering Away from American Car Reliance [Full Story](https://carnegiemellon.shorthandstories.com/changing_car_dependency/index.html) |  [In-class Showcase Version]([https://preview.shorthand.com/f1JsROPJZygw70wd](https://carnegiemellon.shorthandstories.com/changing_car_dependency/gen-z-is-steering-away-from-car-reliance/index.html)) 
 
-# Changes made since Part II
+## Changes made since Part II
 I have changed my story to be centered around Gen Z and why society is shifting towards less car dependency. I started by investigating my own preference to not have my own car and explored the overall trend as to the reason behind that. 
 
 I focused on visualizing American car dependency as compared to other countries and made many connections to Europe. Western Europe is very well known as being car obsessed and has a lot of infastructure built around cars, similar to the US. I wanted to bring in parallels of what Western Europe has done that is different form the US. 
@@ -19,5 +19,5 @@ I chose to focus on using a color known as GenZ purple, which is the successor o
 ## References
 My references are included at the bottom of my website [Driving Change: Gen Z is Steering Away from American Car Reliance](https://carnegiemellon.shorthandstories.com/changing_car_dependency/index.html) 
 
-# Final thoughts
+## Final thoughts
 Being in this class was a pleasure and I learned so much through the iterations of this project between each part. I've learned that it is much more important to be impactful in visualizations than precise and detailed. This is something that I want to continue to work on. 

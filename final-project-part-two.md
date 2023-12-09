@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Final Project - Part 2
 I changed my storyline from my part 1. 
 
 Storyline: The purpose of this project is to raise awareness on Americans’ addiction to cars. 
@@ -21,12 +21,10 @@ Storyline: The purpose of this project is to raise awareness on Americans’ add
 
 My current shortframe storyboard is [here](https://preview.shorthand.com/f1JsROPJZygw70wd). I have not yet added my redesigned visualizations and have images of similar visualizations in place. I will be adding references/citations and adjusting the style and adding relavent photos. 
 
-# User research 
-
-## Target Audience
+### Target Audience
 My target audience is Americans who drive passively. These are people who see driving as a necessity but do not enjoy it as a hobby. 
 
-## Interview script
+### Interview script
 
 | Question to ask | Goals |
 |------|------------------|
@@ -37,7 +35,7 @@ My target audience is Americans who drive passively. These are people who see dr
 | Did anything confuse you? | Understand what didn't work.  |
 
 
-## Interview findings
+### Interview findings
 From the feedback, I will make some changes for my final submission
 - I will write out acronyms. I was trying to be mindful of including acronyms but I still missed a few and it made it difficult to understand. 
 - I will make the style cohesive with black backgrounds and white words. I will occasionally use red accents. 

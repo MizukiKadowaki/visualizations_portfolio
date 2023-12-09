@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mizukikadowaki.github.io/visualizations_portfolio/?fbclid=IwAR2TCAjfA5K_lI6zfcodBWjzxUMg4WPMycv8Uaxcz_eEsSVOJcKanPnni8c) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Final Project - Part 3
 Driving Change: Gen Z is Steering Away from American Car Reliance [Full Story](https://carnegiemellon.shorthandstories.com/changing_car_dependency/index.html) |  [In-class Showcase Version]([https://preview.shorthand.com/f1JsROPJZygw70wd](https://carnegiemellon.shorthandstories.com/changing_car_dependency/gen-z-is-steering-away-from-car-reliance/index.html)) 

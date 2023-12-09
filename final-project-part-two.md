@@ -28,7 +28,7 @@ My target audience is Americans who drive passively. These are people who see dr
 
 ## Interview script
 
-| Goal | Questions to Ask |
+| Question to ask | Goals |
 |------|------------------|
 | Do you have any questions? | Clarify misconceptions straight away.|
 | What is it about? What is your takeaway? | Make sure that the storyline served its intended purpose. |

@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](https://mizukikadowaki.github.io/visualizations_portfolio/?fbclid=IwAR2TCAjfA5K_lI6zfcodBWjzxUMg4WPMycv8Uaxcz_eEsSVOJcKanPnni8c) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Telling Stories with Data Portfolio
 Mizuki Kadowaki's portfolio for Storytelling with Data!
@@ -25,3 +25,5 @@ Fun facts about me are that I get startled easily and can’t handle horror movi
 ## Final Project: [Part 1](final-project-part-one.md)
 
 ## Final Project: [Part 2](final-project-part-two.md)
+
+## Final Project: [Part 3](final-project-part-three.md) 
